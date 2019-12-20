@@ -77,7 +77,7 @@ main{
     margin-bottom: 20px;
   }
   .step-img1 {
-    width: 300px;
+    width: 90%;
     margin: 10px;
     padding: 0;
     
@@ -91,7 +91,7 @@ main{
 
   }
   .step-img2 {
-    width: 300px;
+    width: 90%;
     margin: 10px;
     padding: 0;
   }
@@ -102,7 +102,7 @@ main{
     float: none;
   }
   .step-img3 {
-    width: 300px;
+    width: 90%;
     margin: 10px;
     padding: 0;
 }}
